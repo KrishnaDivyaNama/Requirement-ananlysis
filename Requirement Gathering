@@ -1,0 +1,5 @@
+Get Pattern details by entering the Pattern number (primary key).
+Raise an alert if there is no Pattern No available.
+IF exists, Get Credit line history.
+Check the credit balance.
+Validate the eligible credit for the particular Pattern.
